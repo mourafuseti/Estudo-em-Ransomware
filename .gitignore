@@ -1,0 +1,10 @@
+# Binários compilados — não subir executáveis para o repositório
+*.exe
+*.o
+*.obj
+*.out
+
+# Arquivos do laboratório gerados em runtime
+C:\RansomwareTest\
+*.ENCLAB
+LEIA_ESTE_ARQUIVO.txt
